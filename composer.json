@@ -1,0 +1,19 @@
+{
+    "name": "swadhin_saha_mazegeek/contact",
+    "description": "This will send email to user.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Swadhin Saha",
+            "email": "rahul@mazegeek.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bojra\\Contact\\": "src/"
+        }
+    }
+}
